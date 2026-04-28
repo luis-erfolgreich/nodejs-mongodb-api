@@ -2,17 +2,17 @@
 
 Projeto backend simples utilizando Node.js, Express e MongoDB.
 
-## 🚀 Tecnologias
+## Tecnologias
 - Node.js
 - Express
 - MongoDB
 - Mongoose
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Servidor web básico
 - Conexão com banco de dados
 
-## ▶️ Como rodar
+## Como rodar
 
 ```bash
 npm install
