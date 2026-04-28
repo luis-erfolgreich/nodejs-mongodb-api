@@ -92,5 +92,7 @@ Este projeto tem como foco:
 - Deploy na AWS
 
 
+## Demonstração
 
+![API funcionando](./nodejs-mongodb.api.png)
 
